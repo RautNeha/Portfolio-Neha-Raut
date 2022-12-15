@@ -198,7 +198,7 @@ p{
 /*end of header*/
 /*Hero Section*/
 #hero{
-    background-image: url('file:///D:/html/ff.jpg');
+    background-image: url('img/ff.jpg');
     background-size: cover;
     background-position: top center;
     position: relative;
